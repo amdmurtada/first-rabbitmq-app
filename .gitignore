@@ -3,3 +3,9 @@
 ################################################################################
 
 /Consumer/bin
+/Consumer/obj
+/Consumer/Consumer.csproj.user
+/Producer/obj
+/Producer/bin
+/.vs
+/Consumer/Properties/PublishProfiles
